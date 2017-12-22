@@ -1,0 +1,16 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "Folder for mongodb and Mongoose exercises",
+  "main": "operations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Tunde Badmus",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.8"
+  }
+}
